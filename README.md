@@ -1,4 +1,4 @@
-# CLARIAH-DE-Slides
+# CLARIAH-DE-Slides: Nutzung des CLARIAH-DE Präsentationstemplates
 Dieses Repository enthält die Dokumente für die CLARIAH-DE Präsentation in Reveals. 
 Das Repository kann geforked und weiter angepasst werden. Das nahezu leere Template slides-template.md kann dabei für die Erstellung eigener Präsentationen mit Texten befüllt werden. Bilder werden in den Ordner img abgelegt.
 
