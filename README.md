@@ -10,4 +10,5 @@ Grundlegende Hinweise zur Erstellung der reveals Präsentation:
 4.	Der Befehl für ein Bild ist ![hier Bildbeschreibung](img/hier Dateiname im img-Ordner)
 
 Weitere Informationen und Möglichkeiten zu reveals-Präsentationen: https://github.com/hakimel/reveal.js
+
 CC-0
