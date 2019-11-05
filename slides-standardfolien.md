@@ -1,6 +1,7 @@
 ![Logo CLARIAH-DE gemeinsames Angebot](img/CLARIAH-DE_gem.Angebot.png)
 
-<small> Dr. Anne Klammt, SUB Göttingen</small>
+<small> Lead: Anne Klammt, SUB Göttingen<br>
+Co-Lead: Thorsten Trippel, EKU Tübingen</small>
 
 <small>[www.clariah.de](https://www.clariah.de/)</small>
 <small>[@CLARIAHde](https://twitter.com/CLARIAHde) </small>
@@ -132,7 +133,6 @@
 #### Website 
 
 <iframe frameborder="0" width="100%" height="500pt" src="https://clariah.de"></iframe>
-
 ---
 
 ### CLARIAH-DE Vollversammlung
